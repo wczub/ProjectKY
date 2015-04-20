@@ -41671,4 +41671,39 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.04.20-21.52.49:732][292]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000078CA9A8360
 [2015.04.20-21.53.23:827][552]LogSavePackage: Save=424.694366ms
 [2015.04.20-21.53.23:829][552]LogSavePackage: Moving '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/TrainingMap_1_Auto2774F2EC7454C2EE26DC8DD9E45A0E850.tmp' to '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/Autosaves/Game/Maps/TrainingMap_1_Auto2.umap'
-[2015.04.20-21.53.23:847][552]LogFileHelpers: Editor aut
+[2015.04.20-21.53.23:847][552]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TrainingMap_1' took 0.599
+[2015.04.20-21.53.23:847][552]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.599
+[2015.04.20-21.53.23:900][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyCharacter] ([1] browsable assets)...
+[2015.04.20-21.53.23:900][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyCharacter]
+[2015.04.20-21.53.25:935][552]LogSavePackage: Save=1934.415649ms
+[2015.04.20-21.53.25:973][552]LogSavePackage: Moving '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/MyCharacter_Auto2F0D5031846A93D3479A5B4A4CD16D0AA.tmp' to '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto2.uasset'
+[2015.04.20-21.53.26:014][552]LogFileHelpers: Auto-saving content packages took 2.167
+[2015.04.20-21.54.18:235][ 61]LogCascade: Quitting Cascade. FXSystem=0x00000078CB025800
+[2015.04.20-21.55.29:897][420]LogTexture:Display: Building textures: alienBlue_swim1 (AutoDXT)
+[2015.04.20-21.55.29:934][420]LogTexture:Display: Building textures: alienBlue_swim2 (AutoDXT)
+[2015.04.20-21.55.32:192][522]BlueprintLog: New page: Compile MyCharacter
+[2015.04.20-21.55.32:860][522]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000078CB025800
+[2015.04.20-21.55.32:938][522]BlueprintEditorCompileResults: Info [2633.45] Compile of MyCharacter successful! [in 746 ms]
+[2015.04.20-21.55.34:071][570]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.04.20-21.55.34:078][570]LogPlayLevel: [PIE] Compiling 2DSideScrollerGameMode before PIE...
+[2015.04.20-21.55.34:254][570]LogPlayLevel: [PIE] Compiling Enemy before PIE...
+[2015.04.20-21.55.34:418][570]LogPlayLevel: [PIE] Compiling Projectile before PIE...
+[2015.04.20-21.55.34:574][570]LogPlayLevel: [PIE] Compiling MyCharacter before PIE...
+[2015.04.20-21.55.35:237][570]LogPlayLevel: [PIE] Compiling BreakableBrick before PIE...
+[2015.04.20-21.55.35:586][570]LogPlayLevel: PIE:  Blueprint regeneration took 1515 ms (5 blueprints)
+[2015.04.20-21.55.35:587][570]PIE: New page: PIE session: TrainingMap_1 (Apr 20, 2015, 7:55:35 AM)
+[2015.04.20-21.55.35:619][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032004s)
+[2015.04.20-21.55.35:620][570]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2015.04.20-21.55.35:620][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainingMap_1.TrainingMap_1 to /Game/Maps/UEDPIE_0_TrainingMap_1.TrainingMap_1 (0.033140s)
+[2015.04.20-21.55.35:767][570]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2015.04.20-21.55.35:770][570]LogAIModule: Creating AISystem for world TrainingMap_1
+[2015.04.20-21.55.35:802][570]LogPhysics:Warning: AddConvexElemsToRigidActor: ConvexElem is missing ConvexMesh (140: /Game/2DAssets/Level/RingyTHingy/RingyThingy_Sprite.RingyThingy_Sprite:BodySetup_125)
+[2015.04.20-21.55.35:819][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TrainingMap_1.TrainingMap_1 up for play (max tick rate 0) at 2015.04.20-14.55.35
+[2015.04.20-21.55.35:822][570]LogWorld: Bringing up level for play took: 0.050607
+[2015.04.20-21.55.35:850][570]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TrainingMap_1 0.991
+[2015.04.20-21.56.21:988][267]LogCharacterMovement: MyCharacter_C_0 is stuck and failed to move!
+[2015.04.20-21.56.22:010][268]LogCharacterMovement: MyCharacter_C_0 is stuck and failed to move!
+[2015.04.20-21.56.33:367][683]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000078CBFA3880
+[2015.04.20-22.04.26:397][351]LogSavePackage: Save=562.523621ms
+[2015.04.20-22.04.26:397][351]LogSavePackage: Moving '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/TrainingMap_1_Auto38FB377304517FAA87510AFAAD245AAEA.tmp' to '../../../../../../Users/Will/Documents/Unreal Projects/Template/Saved/Autosaves/Game/Maps/TrainingMap_1_Auto3.umap'
+[2015.04.20-22.04.26:414][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Trai
