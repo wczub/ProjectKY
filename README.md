@@ -8,7 +8,7 @@ Was a boss, now knows excellent research methods.
 
 ##Eliasar
 Added in controls and made it playable on andriod devices.
-Added in a menu. Lead Android programmer, lead concentration in game programming.
+Added in a menu. Lead Android programmer, concentration in game programming.
 
 ##Will
 Crafted the main character. 
