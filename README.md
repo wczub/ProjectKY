@@ -4,7 +4,7 @@
 
 ##Jose
 Created the enemy and helped with changing of the audio file.
-Was a boss, now knows excellet research methods.
+Was a boss, now knows excellent research methods.
 
 ##Eliasar
 Added in controls and made it playable on andriod devices.
