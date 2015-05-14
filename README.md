@@ -32,7 +32,7 @@ Created spawn funcitons using blueprints, the engines programming function for g
 
 ##Eliasar
 Created and wrote the code for touch inputs. Also, made it so the touch inputs only show up when on a mobile device.
-Crafted the pause menu to properly work.
+Crafted the pause menu to properly work. Made the pause menu buttons blink when pressed once and change back to normal when another buttonn is presses. A button only calls its function when it is already blinking so the user does not accidentally press the wrong button. He also made the character blink on and off when the character's health reached below a certain threshold to tell the user their health is low. 
 
 ##Will
 Crafted the main character and pencil projectiles. This entails making sure to set all the default values, make sure he can take damage, make sure he can die, make sure he can spawn projectiles, and that they can only fire when the character has enough Pencil Power. 
