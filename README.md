@@ -31,13 +31,12 @@ Was a boss, now knows excellent research methods, unreal engine start with watch
 Created spawn funcitons using blueprints, the engines programming function for games, through the use of blueprint scripting, we are able to utilize more powerful programs. Sound manipulation using blueprints as well, creating the variables and functions to be able to listen to the sound effects comming from the character.
 
 ##Eliasar
-Added in controls and made it playable on andriod devices.
-Added in a menu. Lead Android programmer, concentration in game programming, excellent menu maker.
+Created and wrote the code for touch inputs. Also, made it so the touch inputs only show up when on a mobile device.
+Crafted the pause menu to properly work.
 
 ##Will
-Crafted the main character and pencil projectiles. 
-Created the HUD to show the health and the pencil power. Wrote the code to regenerate the health and pencil power and displays the percentage of each. 
-Designed the level. Lead level designer, became communication major; can double majors now, excellent designer.
+Crafted the main character and pencil projectiles. This entails making sure to set all the default values, make sure he can take damage, make sure he can die, make sure he can spawn projectiles, and that they can only fire when the character has enough Pencil Power. 
+Created the HUD to show the health and the pencil power. Wrote the code to represent the percentage of health and Pencil Power as a percentage of the bar being filled or not. Fixed a few bugs that made the enenmies fly off the screen. 
 
 
 ##References 
